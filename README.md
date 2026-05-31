@@ -1,0 +1,2 @@
+This repository contains my practice implementations of fundamental Data Structures in Python, including Linked Lists, Stacks, Queues, Binary Search Trees (BST), and AVL Trees. The goal of this repository is to strengthen my understanding of data structures by building them from scratch and exploring their operations, behavior, and underlying concepts.
+This is part of my learning journey, and the code may be updated and improved as I continue learning and experimenting with new concepts.
